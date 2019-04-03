@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ac5dcbf137ad3d54493c637846cd603c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Josefin Sans Light
+  fontNames:
+  - Josefin Sans Light
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 68e11d9ac7e21834eb53022ef9cb001f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

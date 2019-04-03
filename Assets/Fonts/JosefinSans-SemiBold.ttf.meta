@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e2d09613e880cc342a3abd02ab9e1c3a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Josefin Sans SemiBold
+  fontNames:
+  - Josefin Sans SemiBold
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 68f83f0ea62d59242a5fd384df52ec01, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
